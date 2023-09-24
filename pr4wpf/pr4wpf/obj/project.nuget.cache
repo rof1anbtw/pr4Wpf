@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkAEcJQrHk/sA56fpGIX3CmctSDJtboGbf/H5KEnVKkineLWn8HHiYmFVQdJtyge8LQTKp0ISeRDWAlhwfSSbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\percy\\source\\repos\\pr4wpf\\pr4wpf\\pr4wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\percy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
